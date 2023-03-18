@@ -1,1 +1,1 @@
-My own implementation of the blockchain.
+My own implementation of the **blockchain**.
